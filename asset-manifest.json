@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/migoy96/24-7-Project/static/css/main.c3cea322.css",
-    "main.js": "/migoy96/24-7-Project/static/js/main.77229e5e.js",
-    "static/media/carousel_1.png": "/migoy96/24-7-Project/static/media/carousel_1.17026d8d6d4f9ab093dd.png",
-    "static/media/sample_portrait.jpg": "/migoy96/24-7-Project/static/media/sample_portrait.e82a00bb9ca52b74497f.jpg",
-    "static/media/carousel_2.png": "/migoy96/24-7-Project/static/media/carousel_2.b054a9255ed3b74ab110.png",
-    "static/media/Client_Logo.png": "/migoy96/24-7-Project/static/media/Client_Logo.397ab04a8b433abb3508.png",
-    "static/media/layered-waves-haikei.svg": "/migoy96/24-7-Project/static/media/layered-waves-haikei.2ecd7619ffa72bc1ce5b.svg",
-    "static/media/layered-steps-haikei.svg": "/migoy96/24-7-Project/static/media/layered-steps-haikei.c4b892a187c4d70559f6.svg",
-    "index.html": "/migoy96/24-7-Project/index.html",
-    "static/media/wave-haikei.svg": "/migoy96/24-7-Project/static/media/wave-haikei.ab8bde441eb0a6a6c4f3.svg",
-    "main.c3cea322.css.map": "/migoy96/24-7-Project/static/css/main.c3cea322.css.map",
-    "main.77229e5e.js.map": "/migoy96/24-7-Project/static/js/main.77229e5e.js.map"
+    "main.css": "/24-7-Project/static/css/main.aa9417d9.css",
+    "main.js": "/24-7-Project/static/js/main.b354ba11.js",
+    "static/media/carousel_1.png": "/24-7-Project/static/media/carousel_1.17026d8d6d4f9ab093dd.png",
+    "static/media/sample_portrait.jpg": "/24-7-Project/static/media/sample_portrait.e82a00bb9ca52b74497f.jpg",
+    "static/media/carousel_2.png": "/24-7-Project/static/media/carousel_2.b054a9255ed3b74ab110.png",
+    "static/media/Client_Logo.png": "/24-7-Project/static/media/Client_Logo.397ab04a8b433abb3508.png",
+    "static/media/layered-waves-haikei.svg": "/24-7-Project/static/media/layered-waves-haikei.2ecd7619ffa72bc1ce5b.svg",
+    "static/media/layered-steps-haikei.svg": "/24-7-Project/static/media/layered-steps-haikei.c4b892a187c4d70559f6.svg",
+    "index.html": "/24-7-Project/index.html",
+    "static/media/wave-haikei.svg": "/24-7-Project/static/media/wave-haikei.ab8bde441eb0a6a6c4f3.svg",
+    "main.aa9417d9.css.map": "/24-7-Project/static/css/main.aa9417d9.css.map",
+    "main.b354ba11.js.map": "/24-7-Project/static/js/main.b354ba11.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3cea322.css",
-    "static/js/main.77229e5e.js"
+    "static/css/main.aa9417d9.css",
+    "static/js/main.b354ba11.js"
   ]
 }
